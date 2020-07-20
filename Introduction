@@ -1,5 +1,27 @@
 R five basic data types: Logical, Integer, Numeric, Character, and Complex
 
-Logical - TRUE literal as 1 and the FALSE literal as 0 (All letters must be upper case)
-Integer - Integer 
-Numeric - decimal/real (By default, R considers any number (integer and decimal) as numeric literals)
+Logical: TRUE or FALSE (T or F).
+Integer: 125L, 2L, and 10L (numbers are following by L to indicate they are integers).
+Numeric: 12.5, 0.0314, 0.00099, and 9.9e-3 (the scientific notation is allowed using the letter e or E).
+Character: "Hello", "12.5", "Apple" and "T" (Characters are wrapped in quotes or appostrophes).
+
+ARITHMETIC OPERATORS
+Multiplication: 5 * 5
+Division: 5 / 5
+Addition: 5 + 5
+Subtraction: 5 - 5
+Concepts
+A literal value is any part of a statement or expression that is to be used exactly as it's meant to be interpreted.
+
+R is case-sensitive, i.e., it makes a difference between upper and lower cases: for example,
+TRUE
+,
+FALSE
+,
+T
+, and
+F
+are the only authorized logical literals.
+
+R allows only one instruction (a valid line) per line of code, e.g., if you enter two logical literals on the same line, you will get an error.
+
