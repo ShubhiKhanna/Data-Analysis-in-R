@@ -1,0 +1,5 @@
+R five basic data types: Logical, Integer, Numeric, Character, and Complex
+
+Logical - TRUE literal as 1 and the FALSE literal as 0 (All letters must be upper case)
+Integer - Integer 
+Numeric - decimal/real (By default, R considers any number (integer and decimal) as numeric literals)
